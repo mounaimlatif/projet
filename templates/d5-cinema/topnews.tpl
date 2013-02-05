@@ -1,0 +1,1 @@
+<li><div class="title"><h2>{title}</h2></div><span class="poster"><a href="{link}" title="{title}"><img src="[xfvalue_poster]" alt="{title}" /></a></span></li>

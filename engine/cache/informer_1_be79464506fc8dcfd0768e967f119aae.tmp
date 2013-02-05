@@ -1,0 +1,16 @@
+<li>
+	<h2><a href="http://dleviet.com/dle/source/3279-datalife-engine-v98-press-release.html
+" target="_blank">DataLife Engine v.9.8 Press Release</a></h2>
+	<span class="date">22 January 2013 08:43</span>
+	<p>Dear friends,  Completed the main phase of development of version 9.8, release is on testing and preparation, but for now we suggest you read the information about what awaits you with a new release. ...</p>
+</li><li>
+	<h2><a href="http://dleviet.com/dle/bug-fix/3281-security-patches-for-dle-97.html
+" target="_blank">Security patches for DLE 9.7</a></h2>
+	<span class="date">22 January 2013 06:40</span>
+	<p>Updated security patch removes all detected earlier for version 9.7 security issues. In addition to previously released patches for version 9.7, this patch uses a more advanced algorithm to filter ...</p>
+</li><li>
+	<h2><a href="http://dleviet.com/dle/bug-fix/3278-bug-fix-for-dle-97-and-all-earlier-versions.html
+" target="_blank">Bug fix for DLE 9.7 and all earlier versions</a></h2>
+	<span class="date">9 January 2013 06:56</span>
+	<p>Problem: Lack of filtering data in template parser. Bug in Version: 9.7 and all earlier versions The degree of risk: HIGH  Distribution DLE 9.7 version (on link ...</p>
+</li>

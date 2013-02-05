@@ -1,0 +1,15 @@
+@import url(css/core.css);
+
+body {
+	font: .8em/1.5em Arial,Helvetica,sans-serif;
+}
+hr {
+	background:#eee;
+	border:0;
+}
+table td {
+	padding:.5em 0;
+}
+input + a {
+	margin-left:.5em;
+}

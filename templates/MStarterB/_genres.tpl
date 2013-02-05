@@ -1,0 +1,75 @@
+<div class="genreblock">
+    <div style="clear:both"></div>
+    <ul class="genres">
+    	<li><a href="/action/"><span>Action</span></a></li>
+        <li><a href="/adult/"><span>Adulte (18+)</span></a></li>
+        <li><a href="/adventure/"><span>Aventure</span></a></li>
+        <li><a href="/animation/"><span>Animation</span></a></li>
+		<li><a href="/arts-martiaux/"><span>Arts Martiaux</span></a></li> 
+        <li><a href="/biography/"><span>Biographie</span></a></li>
+		<li><a href="/catastrophe/"><span>Catastrophe</span></a></li>
+        <li><a href="/comedy/"><span>Comedie</span></a></li>
+		<li><a href="/disney/"><span>Disney</span></a></li>        
+        <li><a href="/documentary/"><span>Documentaire</span></a></li>
+        <li><a href="/drama/"><span>Drame</span></a></li>
+        <li><a href="/family/"><span>Famille</span></a></li> 
+		<li><a href="/fantastique/"><span>Fantastique</span></a></li>
+		<li><a href="/war/"><span>Guerre</span></a></li>
+		<li><a href="/mystery/"><span>Histoire vraie</span></a></li>
+        <li><a href="/history/"><span>Historique</span></a></li>
+        <li><a href="/horror/"><span>Horreur</span></a></li>
+		<li><a href="/marvel/"><span>Marvel</span></a></li> 
+        <li><a href="/music/"><span>Musical</span></a></li>
+        <li><a href="/musical/"><span>Musical</span></a></li>
+		<li><a href="/pixar/"><span>Pixar</span></a></li> 
+		<li><a href="/crime/"><span>Policier</span></a></li>              
+        <li><a href="/romance/"><span>Romance</span></a></li>
+        <li><a href="/sci-fi/"><span>Sci-Fi</span></a></li>       
+        <li><a href="/sport/"><span>Sport</span></a></li>      
+        <li><a href="/thriller/"><span>Thriller</span></a></li>               
+        <li><a href="/western/"><span>Western</span></a></li> 
+	</ul>
+    <div style="clear:both"></div>
+
+<ul id="sortmenu">
+<li><a href="/cat/a"><span>A</span></a></li>
+<li><a href="/cat/b"><span>B</span></a></li>
+<li><a href="/cat/c"><span>C</span></a></li>
+<li><a href="/cat/d"><span>D</span></a></li>
+<li><a href="/cat/e"><span>E</span></a></li>
+<li><a href="/cat/f"><span>F</span></a></li>
+<li><a href="/cat/g"><span>G</span></a></li>
+<li><a href="/cat/h"><span>H</span></a></li>
+<li><a href="/cat/i"><span>I</span></a></li>
+<li><a href="/cat/j"><span>J</span></a></li>
+<li><a href="/cat/k"><span>K</span></a></li>
+<li><a href="/cat/l"><span>L</span></a></li>
+<li><a href="/cat/m"><span>M</span></a></li>
+<li><a href="/cat/n"><span>N</span></a></li>
+<li><a href="/cat/o"><span>O</span></a></li>
+<li><a href="/cat/p"><span>P</span></a></li>
+<li><a href="/cat/q"><span>Q</span></a></li>
+<li><a href="/cat/r"><span>R</span></a></li>
+<li><a href="/cat/s"><span>S</span></a></li>
+<li><a href="/cat/t"><span>T</span></a></li>
+<li><a href="/cat/u"><span>U</span></a></li>
+<li><a href="/cat/v"><span>V</span></a></li>
+<li><a href="/cat/w"><span>W</span></a></li>
+<li><a href="/cat/x"><span>X</span></a></li>
+<li><a href="/cat/y"><span>Y</span></a></li>
+<li><a href="/cat/z"><span>Z</span></a></li>
+<li><a href="" style="background:none !important; padding:1px;"><span style="background:none !important; padding:1px;">&nbsp;</span></a></li>
+<li><a href="/cat/0"><span>0</span></a></li>
+<li><a href="/cat/1"><span>1</span></a></li>
+<li><a href="/cat/2"><span>2</span></a></li>
+<li><a href="/cat/3"><span>3</span></a></li>
+<li><a href="/cat/4"><span>4</span></a></li>
+<li><a href="/cat/5"><span>5</span></a></li>
+<li><a href="/cat/6"><span>6</span></a></li>
+<li><a href="/cat/7"><span>7</span></a></li>
+<li><a href="/cat/8"><span>8</span></a></li>
+<li><a href="/cat/9"><span>9</span></a></li>
+</ul>
+
+    <div style="clear:both"></div>
+</div>   

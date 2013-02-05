@@ -1,0 +1,1 @@
+<li><a href="{full-link}" title="{title}"><span class="movie-name">{title}</span><img src="[xfvalue_poster]" width="102" height="138" alt="T&eacute;l&eacute;charger {title}" title="T&eacute;l&eacute;charger {title}" /></a></li>

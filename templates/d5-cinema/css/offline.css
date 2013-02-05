@@ -1,0 +1,60 @@
+﻿html  {font-size:100.01%}
+body {
+	margin:0;
+	padding:0;
+	background:url(../images/offline/bg-pat.png) repeat 50% 50%;
+	color:#333;
+	font-family: sans-serif;
+	line-height:1.3em;
+	font-size:75.00%;
+}
+a {
+	color:#555;
+	text-decoration:underline;
+}
+a:hover {
+	color:#000;
+}
+.message-wrapper {
+	border-radius:5px;
+}
+.message-wrapper {
+	margin:150px auto;
+	padding:5px;
+	width:410px;
+	background:rgba(0,0,0,0.15);
+}
+.message {
+	position:relative;
+	background:#fff;
+	border-radius:5px 5px 0 0;
+}
+.message h1,
+.message .description {
+	padding:10px 15px;
+}
+.message h1 {
+	margin:0;
+	padding-top:20px;
+	font-weight:normal;
+}
+.message .ico {
+	position:absolute;
+	right:10px;
+	top:10px;
+	display:block;
+	width:45px;
+	height:55px;
+	background:url(../images/offline/tool-ico.png) no-repeat 100% 0;
+}
+.copyright {
+	padding:15px;
+	background:#f9f9f9;
+	border-top:1px solid #eee;
+	border-radius:0 0 5px 5px;
+	color:#666;
+	font-size:.9em;
+	text-align:center;
+	text-shadow: 1px 0px 0px #ffffff;
+	filter: dropshadow(color=#ffffff, offx=1, offy=0); 
+}

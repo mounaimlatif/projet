@@ -1,0 +1,19 @@
+<li>
+<span class="preview"><a href="http://localhost/dle/main/1-post1.html" title="Welcome to DataLife Engine"><img src="http://localhost/dle/uploads/boxsmall.jpg" alt="Welcome to DataLife Engine" /></a></span>
+<div class="item">
+	<a href="http://localhost/dle/main/1-post1.html" title="Welcome to DataLife Engine"><h2>Welcome to DataLife Engine</h2></a>
+	<span>17-01-2013, 22:32</span>
+</div>
+</li><li>
+<span class="preview"><a href="http://localhost/dle/main/2-post2.html" title="Acquisition and payment script"><img src="{THEME}/dleimages/no_image.jpg" alt="Acquisition and payment script" /></a></span>
+<div class="item">
+	<a href="http://localhost/dle/main/2-post2.html" title="Acquisition and payment script"><h2>Acquisition and payment script</h2></a>
+	<span>17-01-2013, 22:32</span>
+</div>
+</li><li>
+<span class="preview"><a href="http://localhost/dle/main/3-post3.html" title="Templates for DataLife Engine"><img src="http://localhost/dle/uploads/dlelogo.gif" alt="Templates for DataLife Engine" /></a></span>
+<div class="item">
+	<a href="http://localhost/dle/main/3-post3.html" title="Templates for DataLife Engine"><h2>Templates for DataLife Engine</h2></a>
+	<span>17-01-2013, 22:31</span>
+</div>
+</li>
